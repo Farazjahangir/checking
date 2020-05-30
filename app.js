@@ -30,7 +30,7 @@ const firebaseConfig = {
 //     .catch((e) => {
 //       console.log('e ====>', e)
 //     })
-// } 
+// } asas
 
 function login() {
     firebase.auth().signInWithEmailAndPassword('faraz3@gmail.com', '123456')
